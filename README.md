@@ -1,6 +1,6 @@
 # Analisis de rentabilidad AFP
 
-Este repositorio contiene datos y códigos para el análisis de datos del sistema de AFP en Chile.
+Este repositorio contiene códigos y notebooks para el análisis de datos del sistema de AFP en Chile.
 
 Fuentes de datos
 
