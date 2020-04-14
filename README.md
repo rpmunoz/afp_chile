@@ -1,6 +1,19 @@
 # Analisis de rentabilidad AFP
 
-Este repositorio contiene códigos y notebooks para el análisis de datos del sistema de AFP en Chile.
+Este repositorio contiene códigos y notebooks para el análisis de datos del sistema de AFP en Chile. El objetivo de este
+repositorio es enseñar de manera práctica las diferentes actividades y desafíos que suelen surgir en un proyecto de
+Data Science
+
+Este repositorio es un trabajo en progreso y los notebooks cubrirán los siguientes tópicos
+
+Notebooks del proyecto
+- [Limpieza de datos](notebooks/01%20-%20Preprocesar%20datos%20superintendencia.ipynb)
+- [Normalización de datos](notebooks/01%20-%20Preprocesar%20datos%20superintendencia.ipynb)
+- [Visualización de datos](notebooks/02%20-%20Visualizar%20fondos.ipynb) 
+- Análisis exploratorio
+- Análisis de regresión lineal
+- Análisis de series de tiempo
+- Construcción de modelos predictivos usando machine learning y deep learning
 
 Fuentes de datos
 
